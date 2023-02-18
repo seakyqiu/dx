@@ -46,7 +46,7 @@ Argo_xray_trojan="trojan://${uuid}@${ARGO}:443?security=tls&type=ws&host=${ARGO}
 
 cat > log << EOF
 ****************************************************************
-相关教程解读，请关注：甬哥侃侃侃
+相关教程解读，请关注：甬哥侃侃侃-1
 视频教程：https://www.youtube.com/@ygkkk
 博客地址：https://ygkkk.blogspot.com
 ================================================================
